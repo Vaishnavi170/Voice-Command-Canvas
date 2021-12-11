@@ -1,0 +1,18 @@
+body
+{
+	text-align: center;
+	background-color: pink;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: violet;
+	border-radius: 20px;
+}
+.heading_div{
+	background: linear-gradient(pink,red);
+}
